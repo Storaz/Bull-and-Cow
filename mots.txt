@@ -1,0 +1,10 @@
+vache
+cheval
+carton
+ail
+eau
+porte
+voiture
+camion
+table
+surface
